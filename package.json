@@ -2,7 +2,7 @@
   "name": "filpkartserverfile",
   "version": "1.0.0",
   "description": "",
-  "main": "dataFile.js",
+  "main": "serverFile.js",
   "engines": {
     "node": "14.x"
   },
