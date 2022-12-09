@@ -1,5 +1,5 @@
 {
-  "name": "filpkartserverfile",
+  "name": "serverfiles",
   "version": "1.0.0",
   "main": "serverFile.js",
   "scripts": {
@@ -23,5 +23,6 @@
     "url": "https://github.com/Neeraj-Chamoli/Flipkart-Clone/issues"
   },
   "homepage": "https://github.com/Neeraj-Chamoli/Flipkart-Clone#readme",
+  "devDependencies": {},
   "description": ""
 }

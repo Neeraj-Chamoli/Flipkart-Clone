@@ -4,7 +4,6 @@ let JWTStrategy=require("passport-jwt").Strategy;
 let ExtractJWT=require("passport-jwt").ExtractJwt;
 let jwt=require("jsonwebtoken");
 let fs = require("fs");
-let readline = require("readline-sync");
 
 let app = express();
 app.use(express.json());
